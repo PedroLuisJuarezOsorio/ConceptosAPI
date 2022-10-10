@@ -313,8 +313,11 @@ es usual manejar con 2 tipos de errores.
 
 Errores del Cliente:
 400 - Bad Request = Informacion del cliente no puede ser interpretada (campo email invalido)
+
 401 - Unauthorized = Acceso no autorizado (no tiene acceso)
+
 403 - Forbidden = Acceso autorizado pero permiso denegado ()
+
 404 - Not Found = Recurso no Autorizado (escritura o identificador mal)
 
 Errores del Servidor:
