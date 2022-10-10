@@ -34,7 +34,7 @@ Por que se debe de implementar una RESTFul API?
 
 #### {RECURSOS}
 
-###### RURIs = URL
+###### URIs = URL
 Los recursos son URIs para acceder a la manipulacion o lectura de nuestra API.
 
 Ejemplo: api.direcpeter.com/users
