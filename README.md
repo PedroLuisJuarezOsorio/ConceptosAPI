@@ -50,9 +50,11 @@ con sustantivos, no usar verbos
 deben de ser en plurales
 
 [Correcto] https://api.direcpeter.com/users
+
 [Correcto] https://api.direcpeter.com/users/1 - traemos al usuario 1
 
 [Incorrecto] https://api.direcpeter.com/orders/getAll
+
 [Incorrecto] https://api.direcpeter.com/orders/getByld
 
 Como acceder a un recurso?
@@ -60,9 +62,13 @@ Como acceder a un recurso?
 ###### Metodo HTTP (se conocen como Verbos)
 
 [GET]	- api.direcpeter.com/users	- accedemos a los usuarios
+
 [GET]	- api.direcpeter.com/users/4	- accedemos a un solo usuario
+
 [POST]	- api.direcpeter.com/users	- crear un nuevo recurso (usuario)
+
 [PUT]	- api.direcpeter.com/users/4	- Actualizar un recurso existente (usuario)
+
 [DELETE]- api.direcpeter.com/users/4	- Eliminar un recurso (usuario)
 
 [========]
