@@ -312,6 +312,7 @@ es usual manejar con 2 tipos de errores.
 2) Errores que genera el servidor
 
 Errores del Cliente:
+
 400 - Bad Request = Informacion del cliente no puede ser interpretada (campo email invalido)
 
 401 - Unauthorized = Acceso no autorizado (no tiene acceso)
