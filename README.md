@@ -322,7 +322,9 @@ Errores del Cliente:
 404 - Not Found = Recurso no Autorizado (escritura o identificador mal)
 
 Errores del Servidor:
+
 500 - Internal Server Error = cuando se producen excepciones no controladas
+
 504 - Gateway Timeout = No puede responder a tiempo a la peticion del cliente.
 
 [========]
